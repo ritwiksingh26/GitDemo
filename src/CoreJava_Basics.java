@@ -2,9 +2,8 @@
 public class CoreJava_Basics {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		int num = 5;
-		String website = "ritwiksingh.com";
+		// int num = 5;
+		// String website = "ritwiksingh.com";
 		
 		int[] arr2 = {1,3,4,5,6};
 //		System.out.println(arr2[1]);
